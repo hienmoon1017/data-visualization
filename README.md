@@ -1,6 +1,14 @@
-# Data Visualization
+# Data Visualization (Power BI, Google Looker, Powerpoint)
 ❗ _Notice:_ I changed the data period and made other adjustments to protect the confidentiality of my company and the partners I have worked with. Please consider these as examples of my skills in data visualization. Thank you for your understanding
 
+### 🌻 Using Power BI for Visualization
+
+_(Kindly click on this image to watch on Youtube video for more details.)_
+
+[![Watch the video](https://img.youtube.com/vi/I68UYvAF1Sg/0.jpg)](https://www.youtube.com/watch?v=I68UYvAF1Sg)
+
+
+### 🌻 Using Google Looker for Visualizations
 ![image](https://github.com/user-attachments/assets/8cb89ba1-4469-446f-8de8-a81440653cc3)
 
 
@@ -9,6 +17,9 @@
 
 ![image](https://github.com/user-attachments/assets/4f673a0e-fa4f-433a-88cf-d68130ff6bc2)
 
+
+
+### 🌻 Using Powerpoint/Excel for Visualization
 
 ![image](https://github.com/user-attachments/assets/24c09003-9794-4cf3-b3d7-c6d8684aebc5)
 
